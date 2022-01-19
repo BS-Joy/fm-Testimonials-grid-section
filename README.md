@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here!](https://github.com/BS-Joy/fm-Testimonials-grid-section)
+- Live Site URL: [Click Here!](https://bs-joy.github.io/fm-Testimonials-grid-section/)
 
 ### Built with
 
@@ -31,4 +31,4 @@ Users should be able to:
 
 - Website - [Not available right now!](#)
 - Frontend Mentor - [@BS-Joy](https://www.frontendmentor.io/profile/BS-Joy)
-- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)# fm-Testimonials-grid-section
+- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)
