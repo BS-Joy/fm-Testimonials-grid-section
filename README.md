@@ -31,4 +31,4 @@ Users should be able to:
 
 - Website - [Not available right now!](#)
 - Frontend Mentor - [@BS-Joy](https://www.frontendmentor.io/profile/BS-Joy)
-- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)# fm-Testimonials-grid-section
+- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)
