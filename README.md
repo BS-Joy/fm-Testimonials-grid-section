@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here!](https://github.com/BS-Joy/fm-Testimonials-grid-section)
+- Live Site URL: [Click Here!](https://bs-joy.github.io/fm-Testimonials-grid-section/)
 
 ### Built with
 
